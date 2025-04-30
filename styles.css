@@ -628,10 +628,6 @@ footer {
     grid-template-columns: 1fr;
   }
 
-  .testimonials-grid {
-    grid-template-columns: fr;
-  }
-
   .counters {
     flex-direction: row;
     align-items: center;
